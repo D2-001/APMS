@@ -4,10 +4,13 @@
 
 
 ## Setup Instructions
-
+```expo run```
 
 ## File Structure
-
+- `frontend/` - Expo app with a shared codebase for web and mobile powered by Uniwind.
+- `backend/` - Supabase backend code, serverless functions, migrations, and RBAC policies.
+- `database/` - SQL schema, RBAC policies, audit log triggers, and stored procedures.
+- `docs/` - architecture, data model, API specification, and feature planning.
 
 ## Contact Information
 
