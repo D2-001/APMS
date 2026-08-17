@@ -1,5 +1,7 @@
 # AI-Based Student Performance Evaluation and Monitoring System
 
+*Last updated 2026-08-17 by Teokan Duran D. Demircan*
+
 ## Project Description
 
 The AI-Based Student Performance Evaluation and Monitoring System (APMS) is a centralized platform for tracking class records, assessments, evaluations, and student progress. The APMS helps faculty and academic administrators identify performance trends, generate student performance predictions, and provide timely and personalized student feedback.
