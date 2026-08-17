@@ -43,6 +43,8 @@ EXPO_PUBLIC_SUPABASE_URL=https://project-ref.supabase.co
 EXPO_PUBLIC_SUPABASE_ANON_KEY=anon-key
 ```
 
+Make sure to replace the URL and anon-key with the actual values from your Supabase project.
+
 ### 3. Run the application
 
 ```bash
