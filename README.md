@@ -94,8 +94,14 @@ Project developers:
 
 ## License
 
+
 See LICENSE.
+
 
 All rights reserved.
 
-Copyright © 2026 Teokan Duran D. Demircan, Myco Angel Lou A. Villomo, Dian Xane A. Cuadra, Edwin Kyle S. Florendo
+
+Copyright © 2026 Teokan Duran D. Demircan
+Copyright © 2026 Myco Angel Lou A. Villomo
+Copyright © 2026 Dian Xane A. Cuadra
+Copyright © 2026 Edwin Kyle S. Florendo
