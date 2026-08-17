@@ -1,0 +1,193 @@
+PROPRIETARY SOFTWARE LICENSE
+Version 1.0 - Effective August 17, 2026
+
+AI-Based Student Performance Evaluation and Monitoring System
+
+Copyright (c) 2026 Teokan Duran D. Demircan, Myco Angel Lou A. Villomo, Dian Xane A. Cuadra, and Edwin Kyle S. Florendo.
+
+All rights reserved.
+
+1. OWNERSHIP
+
+This software, including its source code, object code, database schemas,
+documentation, designs, user interfaces, algorithms, models, configuration,
+and all related materials (collectively, the "Software"), is proprietary to
+the copyright holders identified above (collectively, the "Owners") or their
+applicable licensors. The Software is protected by the Intellectual Property
+Code of the Philippines and other applicable laws and treaties.
+
+Except for the limited rights expressly granted in a separate written
+agreement signed by the Owners, no right, title, or interest in the Software
+or any associated intellectual property is transferred or licensed to any
+person or entity. Possession of, access to, or publication of a copy of the
+Software does not constitute permission to use it.
+
+2. PERMITTED USE
+
+A person may access, install, execute, demonstrate, test, or evaluate the
+Software only when, and only to the extent, expressly authorized in writing
+by the Owners. Any authorization is personal, limited, revocable,
+non-exclusive, non-transferable, and non-sublicensable unless the written
+authorization expressly states otherwise.
+
+Academic review, including capstone evaluation, archival review, and
+demonstration, is permitted only when expressly authorized by the Owners and
+solely for the authorized institution's internal educational and
+administrative purposes. This permission does not authorize publication,
+commercialization, redistribution, or creation of derivative works.
+
+3. RESTRICTIONS
+
+Unless expressly authorized in writing by the Owners or permitted by
+non-waivable applicable law, no person may:
+
+  a. copy, reproduce, publish, distribute, transmit, sell, lease, rent,
+     sublicense, assign, or otherwise make the Software available to a third
+     party;
+
+  b. modify, translate, adapt, merge, or create derivative works based on the
+     Software;
+
+  c. reverse engineer, decompile, disassemble, decode, or otherwise attempt to
+     derive source code, underlying ideas, algorithms, model parameters, or
+     non-public interfaces from the Software;
+
+  d. use the Software or any part of it to build, train, benchmark, validate,
+     or improve a competing product, service, dataset, or artificial
+     intelligence or machine-learning system;
+
+  e. remove, obscure, or alter any copyright, trademark, attribution,
+     confidentiality, or other proprietary notice;
+
+  f. bypass or interfere with authentication, access controls, row-level
+     security, audit logging, or other technical safeguards; or
+
+  g. use the Software in violation of law, institutional policy, or the rights
+     of any person, including privacy, data-protection, and intellectual
+     property rights.
+
+4. CONFIDENTIALITY AND DATA
+
+Non-public source code, credentials, security information, documentation,
+student records, and other non-public materials made available with or through
+the Software must be treated as confidential. An authorized user must apply
+reasonable administrative, technical, and physical safeguards and may disclose
+such materials only to persons who are separately authorized and bound by
+equivalent confidentiality obligations.
+
+No license to personal data or institutional data is granted under this
+License. Authorized users are independently responsible for obtaining all
+required consents and approvals and for complying with applicable privacy and
+data-protection requirements. Credentials, private keys, service-role keys,
+and production data must not be committed to the repository or disclosed to
+unauthorized persons.
+
+5. THIRD-PARTY MATERIALS
+
+The Software may include or depend on third-party software, libraries, assets,
+services, or other materials. Those materials remain subject to their
+respective licenses and terms. This License applies only to the Owners'
+proprietary material and does not restrict rights independently granted under
+a third-party license. If a third-party license conflicts with this License
+with respect to that third-party material, the third-party license controls
+for that material only.
+
+6. FEEDBACK AND CONTRIBUTIONS
+
+No contribution may be incorporated into the Software without the Owners'
+approval. Unless governed by a separate written contribution agreement, a
+person who voluntarily submits feedback, suggestions, code, documentation, or
+other material grants the Owners a worldwide, perpetual, irrevocable,
+royalty-free, transferable, and sublicensable license to use, reproduce,
+modify, distribute, commercialize, and otherwise exploit that submission for
+any purpose. The contributor represents that they have the right to grant this
+license and that the submission does not violate any third-party right.
+
+7. NO SUPPORT OR UPDATES
+
+Unless a separate written agreement states otherwise, the Owners have no
+obligation to provide maintenance, support, updates, corrections, training,
+hosting, availability, data recovery, or security monitoring.
+
+8. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" AND
+"AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND, WHETHER
+EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. THE OWNERS DISCLAIM ALL WARRANTIES,
+INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+NON-INFRINGEMENT, ACCURACY, RELIABILITY, SECURITY, AND AVAILABILITY.
+
+THE SOFTWARE, INCLUDING ANY PREDICTION, EVALUATION, ANALYTICS, OR AI-ASSISTED
+OUTPUT, IS A DECISION-SUPPORT TOOL ONLY. SUCH OUTPUT MUST BE REVIEWED BY
+QUALIFIED AUTHORIZED PERSONNEL AND MUST NOT BE THE SOLE BASIS FOR ACADEMIC,
+DISCIPLINARY, ADMISSIONS, EMPLOYMENT, OR OTHER HIGH-IMPACT DECISIONS.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE OWNERS, CONTRIBUTORS, AFFILIATES,
+OFFICERS, EMPLOYEES, FACULTY, AND AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES; LOSS OF
+DATA, PRIVACY, REVENUE, PROFITS, GOODWILL, OR OPPORTUNITY; BUSINESS
+INTERRUPTION; OR COST OF SUBSTITUTE SERVICES ARISING FROM OR RELATED TO THE
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THEIR TOTAL AGGREGATE LIABILITY FOR
+ALL CLAIMS ARISING FROM OR RELATED TO THE SOFTWARE WILL NOT EXCEED THE AMOUNT
+THE CLAIMANT PAID DIRECTLY TO THE OWNERS FOR THE AUTHORIZED USE OF THE
+SOFTWARE DURING THE TWELVE MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM,
+OR ONE THOUSAND PHILIPPINE PESOS (PHP 1,000.00), WHICHEVER IS GREATER.
+
+Nothing in this License excludes or limits liability that cannot lawfully be
+excluded or limited.
+
+10. TERMINATION
+
+Any permission granted under this License terminates automatically and
+immediately if the authorized user breaches this License or the applicable
+written authorization. Upon termination or written demand, the user must stop
+using the Software and permanently delete or return all copies and
+confidential materials under the user's possession or control, except for
+copies required to be retained by applicable law or formal institutional
+archival policy. Sections concerning ownership, restrictions,
+confidentiality, third-party materials, feedback, disclaimers, liability,
+termination, and general terms survive termination.
+
+11. EXPORT AND REGULATORY COMPLIANCE
+
+Authorized users must comply with all applicable export-control, sanctions,
+education, privacy, accessibility, cybersecurity, records-retention, and other
+regulatory requirements. The Software may not be used or transferred where
+such use or transfer is prohibited by law.
+
+12. GENERAL TERMS
+
+This License is governed by the laws of the Republic of the Philippines,
+without regard to conflict-of-law principles. Any dispute arising from this
+License is subject to the jurisdiction of the courts of competent jurisdiction
+in the Philippines.
+
+If any provision is held invalid or unenforceable, it will be enforced to the
+maximum extent permitted, and the remaining provisions will remain in effect.
+Failure to enforce a provision is not a waiver. A waiver is effective only
+when made in writing and signed by the Owners. This License and any separate
+written authorization constitute the entire agreement concerning the
+authorized use of the Software; if they conflict, the separately signed
+written authorization controls to the extent of the conflict.
+
+The Owners may amend, update, supplement, or replace this License at any time,
+in their sole discretion and without prior notice, by publishing a revised
+version with a new version number or effective date. The revised terms apply
+to any access to or use of the Software occurring on or after the revised
+version's effective date. Continued access to or use of the Software after
+that date constitutes acceptance of the revised terms. If an authorized user
+does not agree to a revision, that user must immediately stop accessing and
+using the Software and comply with Section 10. No revision overrides a
+separate written agreement signed by the Owners unless that agreement
+expressly permits such an override.
+
+13. PERMISSION REQUESTS
+
+Requests for access, use, reproduction, distribution, modification, or other
+permissions must be submitted directly to the project developers. Permission
+is effective only when granted in a written agreement signed by the applicable
+Owners.
