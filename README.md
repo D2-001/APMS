@@ -94,5 +94,8 @@ Project developers:
 
 ## License
 
-Copyright 2026 Teokan Duran D. Demircan, Myco Angel Lou A. Villomo, Dian Xane A. Cuadra, Edwin Kyle S. Florendo
-Copyright 2026 Southwestern University PHINMA
+See LICENSE.
+
+All rights reserved.
+
+Copyright © 2026 Teokan Duran D. Demircan, Myco Angel Lou A. Villomo, Dian Xane A. Cuadra, Edwin Kyle S. Florendo
