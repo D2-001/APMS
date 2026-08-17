@@ -22,7 +22,7 @@ Core features include:
 
 - [Node.js](https://nodejs.org/) v24.0 or above and npm
 - A [Supabase](https://supabase.com/) project
-- Expo SDK
+- Expo SDK version 57.0 or later
 - Latest version of Google Chrome
 
 ### 1. Install the application dependencies
